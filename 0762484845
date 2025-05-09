@@ -1,0 +1,5 @@
+<script>
+   //location.replace("https://www.amazon.com/dp/0762484845?crid=1JM4ODN4MKLZO&qid=1654644603&language=en_US&keywords=This+Is+Fine+Talking+Figurine+With+Light+and+Sound&tag=d00zy-20&sr=8-1")
+    //location.replace("https://www.amazon.com/product-reviews/0762484845/ref=acr_dpx_hist_5?ie=UTF8&filterByStar=five_star&reviewerType=all_reviews&tag=d00zy-20&sr=8-1")  
+    location.replace("https://www.amazon.com/vdp/0b4de89e68084b18822df266acea80fd?product=0762484845&ref=cm_sw_tw_r_ib_dt_AWrBxplAcve7Z&tag=d00zy-20&sr=8-1")                            
+</script>
